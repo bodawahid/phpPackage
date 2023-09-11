@@ -2,7 +2,7 @@
     "name": "bodawahid/php-routing",
     "description": "this is a simple router builtin during the php course check it now",
     "require": {
-        "php": "8.2"
+        "php": "8.2.4"
     },
     "license": "MIT",
     "autoload": {

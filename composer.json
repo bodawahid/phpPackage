@@ -1,0 +1,19 @@
+{
+    "name": "bodawahid/php-routing",
+    "description": "this is a routing package made by boda wahid",
+    "require": {
+        "php": "8.2.4"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Bodawahid\\PhpRouting\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "bodawahid"
+        }
+    ],
+    "minimum-stability": "dev"
+}

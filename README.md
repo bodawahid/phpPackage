@@ -13,7 +13,7 @@ to support me for the package or the course you can contact info@amirkamizi.com
 You can install the package via composer:
 
 ```bash
-composer require amirkamizi/router
+composer require bodawahid/php-routing:dev-main@dev
 ```
 
 ## Usage
